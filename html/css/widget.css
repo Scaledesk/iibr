@@ -238,3 +238,31 @@ footer .widget h5{
 .cards_wrap li a{
 	position: relative;
 }
+
+
+
+.date1{
+
+    float: left;
+    width: 100%;
+    padding: 12px 20px 15px;
+    font-size: 14px;
+    color: #666;
+    border: 1px solid #fae5e5 !important;
+    border-radius: 0;
+    text-align: left;
+    background-color: #fff;
+}
+
+.email1{
+
+    float: left;
+    width: 100%;
+    padding: 12px 20px 15px ;
+    font-size: 14px;
+    color: #666;
+    border: 1px solid #fae5e5 !important;
+    border-radius: 0;
+    text-align: left;
+    background-color: #fff;
+}
