@@ -2,39 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3fb8a824-5acb-488e-a5c3-2546fb029e49" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/404.html" afterPath="$PROJECT_DIR$/html/404.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/Hbxcore.html" afterPath="$PROJECT_DIR$/html/Hbxcore.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/InternshipProgramme.html" afterPath="$PROJECT_DIR$/html/InternshipProgramme.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/Pgdm.html" afterPath="$PROJECT_DIR$/html/Pgdm.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/Placement.html" afterPath="$PROJECT_DIR$/html/Placement.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/ResearchBusiness.html" afterPath="$PROJECT_DIR$/html/ResearchBusiness.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/aboutus.html" afterPath="$PROJECT_DIR$/html/aboutus.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/admission.html" afterPath="$PROJECT_DIR$/html/admission.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/blog-2-column.html" afterPath="$PROJECT_DIR$/html/blog-2-column.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/blog-3-column.html" afterPath="$PROJECT_DIR$/html/blog-3-column.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/blog-detail.html" afterPath="$PROJECT_DIR$/html/blog-detail.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/blog-left-sidebar.html" afterPath="$PROJECT_DIR$/html/blog-left-sidebar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/blog-right-sidebar.html" afterPath="$PROJECT_DIR$/html/blog-right-sidebar.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/contactus -2.html" afterPath="$PROJECT_DIR$/html/contactus -2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/contactus-2.html" afterPath="$PROJECT_DIR$/html/contactus-2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/contactus.html" afterPath="$PROJECT_DIR$/html/contactus.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/courses-detail.html" afterPath="$PROJECT_DIR$/html/courses-detail.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/courses-list.html" afterPath="$PROJECT_DIR$/html/courses-list.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/event-detail.html" afterPath="$PROJECT_DIR$/html/event-detail.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/event-list.html" afterPath="$PROJECT_DIR$/html/event-list.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/filterable gallery.html" afterPath="$PROJECT_DIR$/html/filterable gallery.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/filterable-gallery.html" afterPath="$PROJECT_DIR$/html/filterable-gallery.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/gallery-masonary-2col.html" afterPath="$PROJECT_DIR$/html/gallery-masonary-2col.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/gallery-masonary-4col.html" afterPath="$PROJECT_DIR$/html/gallery-masonary-4col.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/gallery-masonary.html" afterPath="$PROJECT_DIR$/html/gallery-masonary.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/index.html" afterPath="$PROJECT_DIR$/html/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/our-blog.html" afterPath="$PROJECT_DIR$/html/our-blog.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/our-courses.html" afterPath="$PROJECT_DIR$/html/our-courses.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/our-event.html" afterPath="$PROJECT_DIR$/html/our-event.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/our-teacher-details.html" afterPath="$PROJECT_DIR$/html/our-teacher-details.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/our-teacher.html" afterPath="$PROJECT_DIR$/html/our-teacher.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/style.css" afterPath="$PROJECT_DIR$/html/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/404.html" afterPath="$PROJECT_DIR$/404.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EventAtAsm.html" afterPath="$PROJECT_DIR$/EventAtAsm.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Faculty.html" afterPath="$PROJECT_DIR$/Faculty.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GlobalExposure.html" afterPath="$PROJECT_DIR$/GlobalExposure.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Hbxcore.html" afterPath="$PROJECT_DIR$/Hbxcore.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Infrastructure.html" afterPath="$PROJECT_DIR$/Infrastructure.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/InternshipProgramme.html" afterPath="$PROJECT_DIR$/InternshipProgramme.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LifeAtASM.html" afterPath="$PROJECT_DIR$/LifeAtASM.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NewsFromCampus.html" afterPath="$PROJECT_DIR$/NewsFromCampus.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Pgdm.html" afterPath="$PROJECT_DIR$/Pgdm.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Placement.html" afterPath="$PROJECT_DIR$/Placement.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ResearchBusiness.html" afterPath="$PROJECT_DIR$/ResearchBusiness.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aboutus.html" afterPath="$PROJECT_DIR$/aboutus.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/admission.html" afterPath="$PROJECT_DIR$/admission.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog-2-column.html" afterPath="$PROJECT_DIR$/blog-2-column.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog-3-column.html" afterPath="$PROJECT_DIR$/blog-3-column.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog-detail.html" afterPath="$PROJECT_DIR$/blog-detail.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog-left-sidebar.html" afterPath="$PROJECT_DIR$/blog-left-sidebar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog-right-sidebar.html" afterPath="$PROJECT_DIR$/blog-right-sidebar.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contactus -2.html" afterPath="$PROJECT_DIR$/contactus -2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contactus-2.html" afterPath="$PROJECT_DIR$/contactus-2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contactus.html" afterPath="$PROJECT_DIR$/contactus.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/courses-detail.html" afterPath="$PROJECT_DIR$/courses-detail.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/courses-list.html" afterPath="$PROJECT_DIR$/courses-list.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/event-detail.html" afterPath="$PROJECT_DIR$/event-detail.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/event-list.html" afterPath="$PROJECT_DIR$/event-list.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/filterable gallery.html" afterPath="$PROJECT_DIR$/filterable gallery.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/filterable-gallery.html" afterPath="$PROJECT_DIR$/filterable-gallery.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gallery-masonary-2col.html" afterPath="$PROJECT_DIR$/gallery-masonary-2col.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gallery-masonary-4col.html" afterPath="$PROJECT_DIR$/gallery-masonary-4col.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gallery-masonary.html" afterPath="$PROJECT_DIR$/gallery-masonary.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/our-blog.html" afterPath="$PROJECT_DIR$/our-blog.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/our-courses.html" afterPath="$PROJECT_DIR$/our-courses.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/our-event.html" afterPath="$PROJECT_DIR$/our-event.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/our-teacher-details.html" afterPath="$PROJECT_DIR$/our-teacher-details.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/our-teacher.html" afterPath="$PROJECT_DIR$/our-teacher.html" />
     </list>
     <ignored path="iibr.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -54,119 +58,108 @@
     <favorites_list name="iibr" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="InternshipProgramme.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/InternshipProgramme.html">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="LifeAtASM.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LifeAtASM.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.0833333">
-              <caret line="281" column="93" selection-start-line="281" selection-start-column="93" selection-end-line="281" selection-end-column="93" />
+            <state vertical-scroll-proportion="-10.208333">
+              <caret line="618" column="42" selection-start-line="618" selection-start-column="42" selection-end-line="618" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NewsFromCampus.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NewsFromCampus.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-8.958333">
+              <caret line="827" column="26" selection-start-line="827" selection-start-column="26" selection-end-line="827" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="our-blog.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/our-blog.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.7083335">
+              <caret line="779" column="34" selection-start-line="779" selection-start-column="34" selection-end-line="779" selection-end-column="34" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="our-courses.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/our-courses.html">
+        <entry file="file://$PROJECT_DIR$/our-courses.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.333333">
-              <caret line="292" column="41" selection-start-line="292" selection-start-column="41" selection-end-line="292" selection-end-column="41" />
-              <folding />
+            <state vertical-scroll-proportion="-7.7083335">
+              <caret line="893" column="35" selection-start-line="893" selection-start-column="35" selection-end-line="893" selection-end-column="35" />
+              <folding>
+                <marker date="1480771847000" expanded="true" signature="30232:30689" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="our-event.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/our-event.html">
+        <entry file="file://$PROJECT_DIR$/our-event.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.2083335">
-              <caret line="227" column="38" selection-start-line="227" selection-start-column="38" selection-end-line="227" selection-end-column="38" />
+            <state vertical-scroll-proportion="-8.333333">
+              <caret line="640" column="40" selection-start-line="640" selection-start-column="40" selection-end-line="640" selection-end-column="40" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="our-teacher.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/our-teacher.html">
+        <entry file="file://$PROJECT_DIR$/our-teacher.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.333333">
-              <caret line="292" column="41" selection-start-line="292" selection-start-column="41" selection-end-line="292" selection-end-column="41" />
+            <state vertical-scroll-proportion="-4.5833335">
+              <caret line="651" column="30" selection-start-line="651" selection-start-column="30" selection-end-line="651" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="our-teacher-details.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/our-teacher-details.html">
+        <entry file="file://$PROJECT_DIR$/our-teacher-details.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.083333">
-              <caret line="298" column="51" selection-start-line="298" selection-start-column="51" selection-end-line="298" selection-end-column="51" />
+            <state vertical-scroll-proportion="-11.458333">
+              <caret line="774" column="36" selection-start-line="774" selection-start-column="36" selection-end-line="774" selection-end-column="36" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Pgdm.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/Pgdm.html">
+        <entry file="file://$PROJECT_DIR$/Pgdm.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.083333">
-              <caret line="410" column="24" selection-start-line="410" selection-start-column="24" selection-end-line="412" selection-end-column="77" />
-              <folding>
-                <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#3;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#5;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#9;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#section#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Hbxcore.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/Hbxcore.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.6470587">
-              <caret line="400" column="34" selection-start-line="400" selection-start-column="34" selection-end-line="400" selection-end-column="34" />
+            <state vertical-scroll-proportion="-10.833333">
+              <caret line="621" column="23" selection-start-line="621" selection-start-column="23" selection-end-line="621" selection-end-column="23" />
               <folding>
                 <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#section#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="courses-list.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/html/courses-list.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5294118">
-              <caret line="319" column="26" selection-start-line="319" selection-start-column="26" selection-end-line="319" selection-end-column="26" />
-              <folding>
-                <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Placement.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/Placement.html">
+        <entry file="file://$PROJECT_DIR$/Placement.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.2083335">
-              <caret line="287" column="0" selection-start-line="287" selection-start-column="0" selection-end-line="287" selection-end-column="0" />
-              <folding>
-                <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-              </folding>
+            <state vertical-scroll-proportion="-15.208333">
+              <caret line="521" column="41" selection-start-line="521" selection-start-column="41" selection-end-line="521" selection-end-column="41" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ResearchBusiness.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/ResearchBusiness.html">
+      <file leaf-file-name="ResearchBusiness.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ResearchBusiness.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.833333">
-              <caret line="295" column="44" selection-start-line="295" selection-start-column="44" selection-end-line="295" selection-end-column="44" />
+            <state vertical-scroll-proportion="0.38235295">
+              <caret line="613" column="43" selection-start-line="613" selection-start-column="43" selection-end-line="613" selection-end-column="43" />
               <folding>
-                <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#section#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -180,24 +173,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/html/style.css" />
-        <option value="$PROJECT_DIR$/html/index.html" />
-        <option value="$PROJECT_DIR$/html/404.html" />
-        <option value="$PROJECT_DIR$/html/aboutus.html" />
-        <option value="$PROJECT_DIR$/html/admission.html" />
-        <option value="$PROJECT_DIR$/html/blog-2-column.html" />
-        <option value="$PROJECT_DIR$/html/blog-3-column.html" />
-        <option value="$PROJECT_DIR$/html/blog-detail.html" />
-        <option value="$PROJECT_DIR$/html/blog-left-sidebar.html" />
-        <option value="$PROJECT_DIR$/html/blog-right-sidebar.html" />
-        <option value="$PROJECT_DIR$/html/contactus -2.html" />
-        <option value="$PROJECT_DIR$/html/contactus.html" />
-        <option value="$PROJECT_DIR$/html/contactus-2.html" />
-        <option value="$PROJECT_DIR$/html/courses-detail.html" />
-        <option value="$PROJECT_DIR$/html/courses-list.html" />
-        <option value="$PROJECT_DIR$/html/event-detail.html" />
-        <option value="$PROJECT_DIR$/html/event-list.html" />
-        <option value="$PROJECT_DIR$/html/filterable gallery.html" />
         <option value="$PROJECT_DIR$/html/filterable-gallery.html" />
         <option value="$PROJECT_DIR$/html/gallery-masonary.html" />
         <option value="$PROJECT_DIR$/html/gallery-masonary-2col.html" />
@@ -212,6 +187,43 @@
         <option value="$PROJECT_DIR$/html/ResearchBusiness.html" />
         <option value="$PROJECT_DIR$/html/Pgdm.html" />
         <option value="$PROJECT_DIR$/html/Hbxcore.html" />
+        <option value="$PROJECT_DIR$/Hbxcore.html" />
+        <option value="$PROJECT_DIR$/404.html" />
+        <option value="$PROJECT_DIR$/aboutus.html" />
+        <option value="$PROJECT_DIR$/admission.html" />
+        <option value="$PROJECT_DIR$/blog-2-column.html" />
+        <option value="$PROJECT_DIR$/blog-3-column.html" />
+        <option value="$PROJECT_DIR$/blog-detail.html" />
+        <option value="$PROJECT_DIR$/blog-left-sidebar.html" />
+        <option value="$PROJECT_DIR$/blog-right-sidebar.html" />
+        <option value="$PROJECT_DIR$/contactus -2.html" />
+        <option value="$PROJECT_DIR$/contactus.html" />
+        <option value="$PROJECT_DIR$/contactus-2.html" />
+        <option value="$PROJECT_DIR$/courses-detail.html" />
+        <option value="$PROJECT_DIR$/courses-list.html" />
+        <option value="$PROJECT_DIR$/event-detail.html" />
+        <option value="$PROJECT_DIR$/event-list.html" />
+        <option value="$PROJECT_DIR$/EventAtAsm.html" />
+        <option value="$PROJECT_DIR$/Faculty.html" />
+        <option value="$PROJECT_DIR$/filterable gallery.html" />
+        <option value="$PROJECT_DIR$/filterable-gallery.html" />
+        <option value="$PROJECT_DIR$/gallery-masonary.html" />
+        <option value="$PROJECT_DIR$/gallery-masonary-2col.html" />
+        <option value="$PROJECT_DIR$/gallery-masonary-4col.html" />
+        <option value="$PROJECT_DIR$/GlobalExposure.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/Infrastructure.html" />
+        <option value="$PROJECT_DIR$/InternshipProgramme.html" />
+        <option value="$PROJECT_DIR$/LifeAtASM.html" />
+        <option value="$PROJECT_DIR$/NewsFromCampus.html" />
+        <option value="$PROJECT_DIR$/our-blog.html" />
+        <option value="$PROJECT_DIR$/our-courses.html" />
+        <option value="$PROJECT_DIR$/our-event.html" />
+        <option value="$PROJECT_DIR$/our-teacher.html" />
+        <option value="$PROJECT_DIR$/our-teacher-details.html" />
+        <option value="$PROJECT_DIR$/Pgdm.html" />
+        <option value="$PROJECT_DIR$/Placement.html" />
+        <option value="$PROJECT_DIR$/ResearchBusiness.html" />
       </list>
     </option>
   </component>
@@ -249,6 +261,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -267,42 +281,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="iibr" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="iibr" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="html" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="iibr" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="iibr" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="html" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -336,6 +316,11 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -368,25 +353,25 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329235" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -397,314 +382,328 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/html/style.css">
+    <entry file="file://$PROJECT_DIR$/404.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.7083335">
-          <caret line="5731" column="18" selection-start-line="5731" selection-start-column="18" selection-end-line="5731" selection-end-column="18" />
+        <state vertical-scroll-proportion="-10.291667">
+          <caret line="519" column="0" selection-start-line="519" selection-start-column="0" selection-end-line="519" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/homepageremovesection.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.875">
-          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/404.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.4583335">
-          <caret line="305" column="0" selection-start-line="305" selection-start-column="0" selection-end-line="305" selection-end-column="0" />
-          <folding>
-            <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/aboutus.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.958333">
-          <caret line="292" column="61" selection-start-line="292" selection-start-column="61" selection-end-line="292" selection-end-column="61" />
-          <folding>
-            <element signature="n#ul#0;n#li#2;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/admission.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.0833335">
-          <caret line="290" column="44" selection-start-line="290" selection-start-column="44" selection-end-line="290" selection-end-column="44" />
-          <folding>
-            <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/blog-2-column.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.083333">
-          <caret line="298" column="59" selection-start-line="298" selection-start-column="59" selection-end-line="298" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/blog-3-column.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.208333">
-          <caret line="295" column="61" selection-start-line="295" selection-start-column="61" selection-end-line="295" selection-end-column="61" />
-          <folding>
-            <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/blog-detail.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.333333">
-          <caret line="292" column="41" selection-start-line="292" selection-start-column="41" selection-end-line="292" selection-end-column="41" />
-          <folding>
-            <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/blog-left-sidebar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.3333333">
-          <caret line="210" column="37" selection-start-line="210" selection-start-column="37" selection-end-line="210" selection-end-column="37" />
-          <folding>
-            <element signature="n#div#1;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ul#0;n#li#2;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/blog-right-sidebar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.583333">
-          <caret line="228" column="34" selection-start-line="228" selection-start-column="34" selection-end-line="228" selection-end-column="34" />
-          <folding>
-            <element signature="n#div#1;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ul#0;n#li#2;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/contactus -2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.458333">
-          <caret line="297" column="0" selection-start-line="297" selection-start-column="0" selection-end-line="297" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/contactus.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.708333">
-          <caret line="299" column="0" selection-start-line="299" selection-start-column="0" selection-end-line="299" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/contactus-2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.333333">
-          <caret line="292" column="41" selection-start-line="292" selection-start-column="41" selection-end-line="292" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/courses-detail.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.0833335">
-          <caret line="290" column="56" selection-start-line="290" selection-start-column="56" selection-end-line="290" selection-end-column="56" />
-          <folding>
-            <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/event-detail.html">
+    <entry file="file://$PROJECT_DIR$/aboutus.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-13.333333">
-          <caret line="300" column="0" selection-start-line="300" selection-start-column="0" selection-end-line="300" selection-end-column="0" />
+          <caret line="947" column="41" selection-start-line="947" selection-start-column="41" selection-end-line="947" selection-end-column="41" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/event-list.html">
+    <entry file="file://$PROJECT_DIR$/admission.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.333333">
-          <caret line="292" column="41" selection-start-line="292" selection-start-column="41" selection-end-line="292" selection-end-column="41" />
+        <state vertical-scroll-proportion="-15.833333">
+          <caret line="545" column="30" selection-start-line="545" selection-start-column="30" selection-end-line="545" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/filterable gallery.html">
+    <entry file="file://$PROJECT_DIR$/blog-2-column.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.208333">
-          <caret line="295" column="28" selection-start-line="295" selection-start-column="28" selection-end-line="295" selection-end-column="28" />
-          <folding>
-            <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+        <state vertical-scroll-proportion="-13.958333">
+          <caret line="889" column="20" selection-start-line="889" selection-start-column="20" selection-end-line="895" selection-end-column="33" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/filterable-gallery.html">
+    <entry file="file://$PROJECT_DIR$/blog-3-column.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.2083335">
-          <caret line="287" column="0" selection-start-line="287" selection-start-column="0" selection-end-line="287" selection-end-column="0" />
-          <folding>
-            <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+        <state vertical-scroll-proportion="-12.708333">
+          <caret line="931" column="39" selection-start-line="931" selection-start-column="39" selection-end-line="931" selection-end-column="39" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/gallery-masonary.html">
+    <entry file="file://$PROJECT_DIR$/blog-detail.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-7.7083335">
-          <caret line="289" column="45" selection-start-line="289" selection-start-column="45" selection-end-line="289" selection-end-column="45" />
+          <caret line="827" column="42" selection-start-line="827" selection-start-column="42" selection-end-line="827" selection-end-column="42" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/gallery-masonary-2col.html">
+    <entry file="file://$PROJECT_DIR$/blog-left-sidebar.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.458334">
-          <caret line="305" column="40" selection-start-line="305" selection-start-column="40" selection-end-line="305" selection-end-column="40" />
+        <state vertical-scroll-proportion="-14.583333">
+          <caret line="936" column="32" selection-start-line="936" selection-start-column="32" selection-end-line="936" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/gallery-masonary-4col.html">
+    <entry file="file://$PROJECT_DIR$/blog-right-sidebar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.208333">
+          <caret line="934" column="0" selection-start-line="934" selection-start-column="0" selection-end-line="934" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contactus -2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.333333">
+          <caret line="556" column="0" selection-start-line="556" selection-start-column="0" selection-end-line="556" selection-end-column="0" />
+          <folding>
+            <marker date="1480771714000" expanded="true" signature="21822:22273" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contactus.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.458333">
+          <caret line="570" column="0" selection-start-line="570" selection-start-column="0" selection-end-line="570" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contactus-2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.458333">
+          <caret line="557" column="33" selection-start-line="557" selection-start-column="33" selection-end-line="557" selection-end-column="33" />
+          <folding>
+            <marker date="1480771730000" expanded="true" signature="21822:22273" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courses-detail.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-8.958333">
-          <caret line="293" column="28" selection-start-line="293" selection-start-column="28" selection-end-line="293" selection-end-column="28" />
+          <caret line="1054" column="42" selection-start-line="1054" selection-start-column="42" selection-end-line="1054" selection-end-column="42" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/index.html">
+    <entry file="file://$PROJECT_DIR$/courses-list.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.625">
-          <caret line="243" column="27" selection-start-line="243" selection-start-column="0" selection-end-line="318" selection-end-column="0" />
+        <state vertical-scroll-proportion="-13.333333">
+          <caret line="919" column="30" selection-start-line="919" selection-start-column="30" selection-end-line="919" selection-end-column="30" />
           <folding>
-            <element signature="n#div#1;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ul#0;n#li#2;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <marker date="1480771741000" expanded="true" signature="33565:34016" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/our-blog.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.0833335">
-          <caret line="216" column="46" selection-start-line="216" selection-start-column="46" selection-end-line="216" selection-end-column="46" />
-          <folding>
-            <element signature="n#div#1;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ul#0;n#li#2;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/our-courses.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.333333">
-          <caret line="292" column="41" selection-start-line="292" selection-start-column="41" selection-end-line="292" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/our-event.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.2083335">
-          <caret line="227" column="38" selection-start-line="227" selection-start-column="38" selection-end-line="227" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/our-teacher.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.333333">
-          <caret line="292" column="41" selection-start-line="292" selection-start-column="41" selection-end-line="292" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/our-teacher-details.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.083333">
-          <caret line="298" column="51" selection-start-line="298" selection-start-column="51" selection-end-line="298" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/Placement.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.2083335">
-          <caret line="287" column="0" selection-start-line="287" selection-start-column="0" selection-end-line="287" selection-end-column="0" />
-          <folding>
-            <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/ResearchBusiness.html">
+    <entry file="file://$PROJECT_DIR$/event-detail.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-10.833333">
-          <caret line="295" column="44" selection-start-line="295" selection-start-column="44" selection-end-line="295" selection-end-column="44" />
+          <caret line="754" column="30" selection-start-line="754" selection-start-column="30" selection-end-line="754" selection-end-column="30" />
           <folding>
-            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <marker date="1480771749000" expanded="true" signature="29140:29591" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/InternshipProgramme.html">
+    <entry file="file://$PROJECT_DIR$/event-list.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.0833333">
-          <caret line="281" column="93" selection-start-line="281" selection-start-column="93" selection-end-line="281" selection-end-column="93" />
+        <state vertical-scroll-proportion="-10.833333">
+          <caret line="843" column="32" selection-start-line="843" selection-start-column="32" selection-end-line="843" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/Pgdm.html">
+    <entry file="file://$PROJECT_DIR$/EventAtAsm.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.083333">
-          <caret line="410" column="24" selection-start-line="410" selection-start-column="24" selection-end-line="412" selection-end-column="77" />
+        <state vertical-scroll-proportion="-8.958333">
+          <caret line="825" column="42" selection-start-line="825" selection-start-column="42" selection-end-line="825" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Faculty.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.958333">
+          <caret line="667" column="32" selection-start-line="667" selection-start-column="32" selection-end-line="667" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/filterable gallery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.0833335">
+          <caret line="627" column="33" selection-start-line="627" selection-start-column="33" selection-end-line="627" selection-end-column="33" />
           <folding>
-            <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#3;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#5;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#9;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#section#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <marker date="1480771773000" expanded="true" signature="23492:23943" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/Hbxcore.html">
+    <entry file="file://$PROJECT_DIR$/filterable-gallery.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.6470587">
-          <caret line="400" column="34" selection-start-line="400" selection-start-column="34" selection-end-line="400" selection-end-column="34" />
+        <state vertical-scroll-proportion="-8.958333">
+          <caret line="627" column="30" selection-start-line="627" selection-start-column="30" selection-end-line="627" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gallery-masonary.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.958333">
+          <caret line="618" column="32" selection-start-line="618" selection-start-column="32" selection-end-line="618" selection-end-column="32" />
+          <folding>
+            <marker date="1480771782000" expanded="true" signature="25416:25867" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gallery-masonary-2col.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.958333">
+          <caret line="610" column="24" selection-start-line="610" selection-start-column="28" selection-end-line="616" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gallery-masonary-4col.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.7083335">
+          <caret line="636" column="35" selection-start-line="636" selection-start-column="35" selection-end-line="636" selection-end-column="35" />
+          <folding>
+            <marker date="1480771791000" expanded="true" signature="25379:25830" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GlobalExposure.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.583333">
+          <caret line="609" column="32" selection-start-line="609" selection-start-column="32" selection-end-line="609" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hbxcore.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.958333">
+          <caret line="607" column="44" selection-start-line="607" selection-start-column="44" selection-end-line="607" selection-end-column="44" />
           <folding>
             <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#section#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/courses-list.html">
+    <entry file="file://$PROJECT_DIR$/homepageremovesection.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5294118">
-          <caret line="319" column="26" selection-start-line="319" selection-start-column="26" selection-end-line="319" selection-end-column="26" />
+        <state vertical-scroll-proportion="474.16666">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.333334">
+          <caret line="2526" column="26" selection-start-line="2526" selection-start-column="26" selection-end-line="2526" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Infrastructure.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.4583335">
+          <caret line="666" column="18" selection-start-line="666" selection-start-column="18" selection-end-line="672" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InternshipProgramme.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.333333">
+          <caret line="583" column="0" selection-start-line="583" selection-start-column="0" selection-end-line="583" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LifeAtASM.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.208333">
+          <caret line="618" column="42" selection-start-line="618" selection-start-column="42" selection-end-line="618" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewsFromCampus.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.958333">
+          <caret line="827" column="26" selection-start-line="827" selection-start-column="26" selection-end-line="827" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/our-blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.7083335">
+          <caret line="779" column="34" selection-start-line="779" selection-start-column="34" selection-end-line="779" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/our-courses.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.7083335">
+          <caret line="893" column="35" selection-start-line="893" selection-start-column="35" selection-end-line="893" selection-end-column="35" />
           <folding>
-            <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <marker date="1480771847000" expanded="true" signature="30232:30689" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/our-event.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.333333">
+          <caret line="640" column="40" selection-start-line="640" selection-start-column="40" selection-end-line="640" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/our-teacher.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.5833335">
+          <caret line="651" column="30" selection-start-line="651" selection-start-column="30" selection-end-line="651" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/our-teacher-details.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.458333">
+          <caret line="774" column="36" selection-start-line="774" selection-start-column="36" selection-end-line="774" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pgdm.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.833333">
+          <caret line="621" column="23" selection-start-line="621" selection-start-column="23" selection-end-line="621" selection-end-column="23" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#section#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Placement.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.208333">
+          <caret line="521" column="41" selection-start-line="521" selection-start-column="41" selection-end-line="521" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ResearchBusiness.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38235295">
+          <caret line="613" column="43" selection-start-line="613" selection-start-column="43" selection-end-line="613" selection-end-column="43" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#section#0;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
